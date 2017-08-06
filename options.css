@@ -1,0 +1,9 @@
+body {
+    font-family: "Roboto";
+    margin: 8rem;
+    max-width: 600px;
+}
+
+sup {
+    font-size: 8px;
+}
